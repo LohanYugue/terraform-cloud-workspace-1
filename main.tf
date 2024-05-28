@@ -15,7 +15,7 @@ module "lohan-route-table" {
   }
 }
 
-module "lohan-route-table" {
+module "lohan-route-table-2" {
   source  = "app.terraform.io/lohan-yugue/lohan-route-table/aws"
   version = "0.0.4"
 
